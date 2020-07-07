@@ -1,0 +1,13 @@
+{
+  "database": 0,
+  "tables": [
+    "table1",
+    "table2",
+    "table3"
+    ],
+  "functions": [
+    "function1",
+    "function2",
+    "function3"
+    ]
+}
